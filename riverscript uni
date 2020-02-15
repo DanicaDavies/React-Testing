@@ -1,26 +1,20 @@
 ! version = 2.0
 
 + hello
-- Hello there.
-- Hey, how are you?
-- Hi there.
-- Hello. :)
-
-+ hey
-@ hello
- 
-+ hi
-@ hello
+- Hello there. {weight=3}
+- Hey, how are you? {weight=3}
+- Hi there. {weight=3}
+- Hello. :) {weight=3}
 
 + my name is *
-- nice to meet you <star>
-- nice meeting you <star>
+- nice to meet you <star> {weight=3}
+- nice meeting you <star> {weight=3}
 
 + thank you
-- you are welcome
-- welcome
-- no problem
-- no worries
+- you are welcome {weight=3}
+- welcome {weight=3}
+- no problem {weight=3}
+- no worries {weight=3}
 
 + my top choice is *
 - <set name=<star>>.
@@ -35,7 +29,7 @@
 - What University do you want to discuss?
 
 + *
-- Sorry did not get what you said
-- I am afraid that i can not understand you
-- I did not get it
-- Sorry can you please elaborate that for me
+- Sorry did not get what you said {weight=3}
+- I am afraid that i can not understand you {weight=3}
+- I did not get it {weight=3}
+- Sorry can you please elaborate that for me {weight=3}
