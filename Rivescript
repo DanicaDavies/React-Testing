@@ -7,6 +7,9 @@
 
 ! include English.rsl
 
+
+$rive->sortReplies;
+
 > begin
   + request
   - {ok}
