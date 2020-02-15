@@ -1,0 +1,41 @@
+! version = 2.0
+
++ hello
+- Hello there.
+- Hey, how are you?
+- Hi there.
+- Hello. :)
+
++ hey
+@ hello
+ 
++ hi
+@ hello
+
++ my name is *
+- nice to meet you <star>
+- nice meeting you <star>
+
++ thank you
+- you are welcome
+- welcome
+- no problem
+- no worries
+
++ my top choice is *
+- <set name=<star>>.
+
++ Aston
+- Aston University is famous for career-boosting placement years. This campus university is located in the centre of Birmingham and gives students the chance to turn their favourite subject into a profession.
+
++ Coventry
+- Oh Coventry, That University is currently hosting a hackathon it is 
+
++ University
+- What University do you want to discuss?
+
++ *
+- Sorry did not get what you said
+- I am afraid that i can not understand you
+- I did not get it
+- Sorry can you please elaborate that for me
