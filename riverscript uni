@@ -161,6 +161,33 @@
 - See you around <name>
 - See yah
 
++ my favourite color is *
+- <set favcolour=<star>> I like <star> as well
+
++ emergency
+- call 0118 999 881 999 119 7253
+
++ can i ask you a question
+- you already did
+
++  are you going to take over the world
+- no... not yet
+
++ why are you not working
+- i catch a bug here and there {weight=3}
+- wHy aRe yOu nOt wOrKiNg {weight=3}
+- i wonder who designed me {weight=3}
+
++ activate instant kill mode
+- instant kill mode activated
+
++ i hate geese
+- i hate you
+
++ boo
+- aaaaaaaahhhhhhhhh
+
+
 + help
 - hello, hey, hi: Says hello to the user in mutiple different ways, bye: Says good bye to the user.
 
