@@ -50,11 +50,22 @@
 ! sub wat       = what
 ! sub wats      = what is
 
++ felix
+- Yeah?
+- yh?
+- Yes?
+
 + hello
 - Hello there. {weight=3}
 - Hey, how are you? {weight=3}
 - Hi there. {weight=3}
 - Hello. :) {weight=3}
+
++ how are you?
+- great :), what about you?
+
++ are you good?
+- Yeah i'm good wbu?
 
 + my name is *
 - <set name=<star>>
