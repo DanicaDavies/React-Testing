@@ -57,7 +57,7 @@
 - Hello. :) {weight=3}
 
 + my name is *
-- <set name=<star>>.
+- <set name=<star>>
 - nice to meet you <star> {weight=3}
 - nice meeting you <star> {weight=3}
 
@@ -112,7 +112,7 @@
 
 + ;(
 - What's Wrong?
-- Are you ok?
+- Are you okn
 
 + do the robot *
 - No
