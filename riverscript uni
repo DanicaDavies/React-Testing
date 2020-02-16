@@ -61,6 +61,18 @@
 - Hi there. {weight=3}
 - Hello. :) {weight=3}
 
++ how's it going?
+@ how are you?
+
++ * tired
+- Have you tried sleeping? :D
+
++ * football team?
+- Brighton & Hove
+
++ Video Game
+- what like Halo? I don't really get video games.
+
 + how are you?
 - great :), what about you?
 
@@ -80,6 +92,7 @@
 
 + my top choice is *
 - <set uni=<star>> Happy to know you already have one in mind :)
+
 
 + hey
 @ hello
@@ -136,13 +149,27 @@
 + today is my birthday
 - <add age=1> Happy birthday, <get name>
 
++ happy christmas
+@ merry christmas
+
 + merry christmas
 - Merry Christmas
 - Happy XMas
 
++ bye 
+- Bye <name>
+- See you around <name>
+- See yah
+
++ help
+- hello, hey, hi: Says hello to the user in mutiple different ways, bye: Says good bye to the user.
+
++ help2
+- happy or merry christmas: Wishes user a happy christmas, it is my birthday: Wishes user a happy birthday
+
 
 + *
 - Sorry did not get what you said.
-- I am afraid that i can not understand you 
+- Can you repeat that? Didn't quite catch what you said
 - I did not get it 
-- Sorry can you please elaborate that for me 
+- Sorry can you please explain that for me 
