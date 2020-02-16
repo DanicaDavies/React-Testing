@@ -76,6 +76,9 @@
 + hi
 @ hello
 
++ ;( 
+@ sad
+
 + how are you, today?
 - I am great, how about you?
 
@@ -88,7 +91,7 @@
 + aston *
 - Aston University is famous for career-boosting placement years. This campus university is located in the centre of Birmingham and gives students the chance to turn their favourite subject into a profession.
 
-+ * coventry *
++ coventry *
 - Oh Coventry, That University is currently hosting a hackathon. Wonder how it's going
 
 + geese
@@ -110,11 +113,7 @@
 - People say "Bless you" when you sneeze because when you sneeze,your heart stops for a mili-second.
 - In a study of 200,000 ostriches over a period of 80 years, no one reported a single case where an ostrich buried its head in the sand.
 
-+ ;(
-- What's Wrong?
-- Are you okn
-
-+ do the robot *
++ do the robot 
 - No
 
 + you are an AI
