@@ -76,11 +76,20 @@
 + hi
 @ hello
 
++ how are you, today?
+- I am great, how about you?
+
++ * good *
+- Glad to hear that.
+
++ * sad *
+- Why are you sad?
+
 + aston *
 - Aston University is famous for career-boosting placement years. This campus university is located in the centre of Birmingham and gives students the chance to turn their favourite subject into a profession.
 
-+ coventry *
-- Oh Coventry, That University is currently hosting a hackathon it is 
++ * coventry *
+- Oh Coventry, That University is currently hosting a hackathon. Wonder how it's going
 
 + geese
 - Honk Honk
@@ -93,6 +102,34 @@
 
 + university
 - What University do you want to discuss?
+
++ tell * fun fact
+- It is impossible to lick your elbow (busted)
+- A crocodile can't stick it's tongue out.
+- A shrimp's heart is in it's head.
+- People say "Bless you" when you sneeze because when you sneeze,your heart stops for a mili-second.
+- In a study of 200,000 ostriches over a period of 80 years, no one reported a single case where an ostrich buried its head in the sand.
+
++ :(
+- What's Wrong?
+- Are you ok?
+
++ do the robot *
+- No
+
++ you are an AI
+- And your Human, you don't see me saying anything about it
+
++ i am * years old
+- <set age=<star>>Wow your old can't imagine being <star>
+
++ today is my birthday
+- <add age=1> Happy birthday, <get name>
+
++ merry christmas
+- Merry Christmas
+- Happy XMas
+
 
 + *
 - Sorry did not get what you said.
